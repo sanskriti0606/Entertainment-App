@@ -1,0 +1,88 @@
+[
+    {
+      "title": "Inception",
+      "releaseYear": "2010",
+      "imageUrl": "/images/inception.jpg"
+    },
+    {
+      "title": "Breaking Bad",
+      "releaseYear": "2008",
+      "imageUrl": "/images/breaking-bad.jpg"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "releaseYear": "1994",
+      "imageUrl": "/images/shawshank-redemption.jpg"
+    },
+    {
+      "title": "Stranger Things",
+      "releaseYear": "2016",
+      "imageUrl": "/images/stranger-things.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "releaseYear": "2008",
+      "imageUrl": "/images/dark-knight.jpg"
+    },
+    {
+      "title": "Friends",
+      "releaseYear": "1994",
+      "imageUrl": "/images/friends.jpg"
+    },
+    {
+      "title": "Pulp Fiction",
+      "releaseYear": "1994",
+      "imageUrl": "/images/pulp-fiction.jpg"
+    },
+    {
+      "title": "Game of Thrones",
+      "releaseYear": "2011",
+      "imageUrl": "/images/game-of-thrones.jpg"
+    },
+    {
+      "title": "Fight Club",
+      "releaseYear": "1999",
+      "imageUrl": "/images/fight-club.jpg"
+    },
+    {
+      "title": "Forrest Gump",
+      "releaseYear": "1994",
+      "imageUrl": "/images/forrest-gump.jpg"
+    },
+    {
+      "title": "The Matrix",
+      "releaseYear": "1999",
+      "imageUrl": "/images/matrix.jpg"
+    },
+    {
+      "title": "The Godfather",
+      "releaseYear": "1972",
+      "imageUrl": "/images/godfather.jpg"
+    },
+    {
+      "title": "The Crown",
+      "releaseYear": "2016",
+      "imageUrl": "/images/the-crown.jpg"
+    },
+    {
+      "title": "Narcos",
+      "releaseYear": "2015",
+      "imageUrl": "/images/narcos.jpg"
+    },
+    {
+      "title": "Black Mirror",
+      "releaseYear": "2011",
+      "imageUrl": "/images/black-mirror.jpg"
+    },
+    {
+      "title": "The Mandalorian",
+      "releaseYear": "2019",
+      "imageUrl": "/images/mandalorian.jpg"
+    },
+    {
+      "title": "Westworld",
+      "releaseYear": "2016",
+      "imageUrl": "/images/westworld.jpg"
+    }
+  ]
+  
