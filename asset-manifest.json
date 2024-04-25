@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Entertainment-App/static/css/main.93a31e70.css",
+    "main.js": "/Entertainment-App/static/js/main.1a77b724.js",
+    "static/js/787.1f02d683.chunk.js": "/Entertainment-App/static/js/787.1f02d683.chunk.js",
+    "index.html": "/Entertainment-App/index.html",
+    "main.93a31e70.css.map": "/Entertainment-App/static/css/main.93a31e70.css.map",
+    "main.1a77b724.js.map": "/Entertainment-App/static/js/main.1a77b724.js.map",
+    "787.1f02d683.chunk.js.map": "/Entertainment-App/static/js/787.1f02d683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a31e70.css",
+    "static/js/main.1a77b724.js"
+  ]
+}
